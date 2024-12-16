@@ -1,10 +1,6 @@
-# Tapathon: Cyber Guardian
+# TONs of Dungeons 🗺️💰
 
-![Tapathon: Cyber Guardian](./poster.jpg)
-
-Welcome to Tapathon: Cyber Guardian ⛨, an interactive defense game.
-
-Your objective is simple: protect your device by tapping to destroy incoming threats and using shields for added protection. The more friends you invite, the stronger your defenses become. Compete for the top spot on the leaderboard and show the world your cyber defense skills.
+TONs of Dungeons game integrates both casual gaming and play-to-earn mechanics, appealing to players who enjoy light strategy and earning real-world or virtual assets (e.g., crypto or tokens in the TON ecosystem).
 
 ## Setup
 
